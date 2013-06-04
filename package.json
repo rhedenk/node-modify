@@ -2,5 +2,8 @@
   "name": "modify",
   "version": "0.1.0",
   "author": "Randall Hedenkamp <randall.hedenkamp@gmail.com>",
-  "url": "http://github.com/rhedenk/node-modify"
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/rhedenk/node-modify.git"
+  }
 }
